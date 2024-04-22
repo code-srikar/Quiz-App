@@ -8,9 +8,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-image: linear-gradient(#d8c7ff,#19006c);
   height: 100vh;
-  display: flex;
+  /* position: absolute; */
+  /* display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center; */
 }
 
 code {
